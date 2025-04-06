@@ -13,7 +13,7 @@ This machine learning project predicts passenger survival on the Titanic using v
 > Evaluation: Detailed performance metrics and visualizations
 
 # Results
-> Best model achieves 83% accuracy
+> Best model achieves 81% accuracy
 
 > Key survival factors: gender, passenger class, and age
 
@@ -25,6 +25,6 @@ This machine learning project predicts passenger survival on the Titanic using v
 # Dataset Used
 > <a href="https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv">dataset </a>
 # Final Conclusion:
-This project successfully predicts Titanic passenger survival with 83% accuracy using machine learning. Key findings confirm historical evacuation patterns—women, children, and 1st-class passengers had significantly higher survival rates. The optimized XGBoost model, combined with feature engineering and ensemble methods, provides reliable predictions while maintaining interpretability. This end-to-end solution demonstrates the power of ML for historical analysis and serves as a strong foundation for binary classification tasks.
+This project successfully predicts Titanic passenger survival with 81% accuracy using machine learning. Key findings confirm historical evacuation patterns—women, children, and 1st-class passengers had significantly higher survival rates. The optimized XGBoost model, combined with feature engineering and ensemble methods, provides reliable predictions while maintaining interpretability. This end-to-end solution demonstrates the power of ML for historical analysis and serves as a strong foundation for binary classification tasks.
 
 🚀 Key Takeaway: Data-driven insights align with real-world events, validating both the model and historical accounts of the disaster.
