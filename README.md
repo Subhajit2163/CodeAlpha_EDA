@@ -18,3 +18,9 @@ This machine learning project predicts passenger survival on the Titanic using v
 > Key survival factors: gender, passenger class, and age
 
 > Confirmed historical "women and children first" policy
+# Requirements
+> Python 3.8+
+
+> Libraries: pandas, numpy, scikit-learn, xgboost, matplotlib, seaborn
+# Dataset Used
+> <a href="https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv">dataset </a>
